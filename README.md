@@ -1,2 +1,2 @@
 # BRAIN-web
-Author - NHS
+Author - NN
